@@ -1,0 +1,11 @@
+{
+  "payload": "Earth-observation multispectral camera",
+  "spacecraft": "ORBIS-2",
+  "calibration_date": "2026-08-25",
+  "channels": [
+    {"name": "blue", "gain": 1.003, "offset": -0.002},
+    {"name": "green", "gain": 0.998, "offset": 0.001},
+    {"name": "red", "gain": 1.011, "offset": -0.004},
+    {"name": "near_ir", "gain": 1.006, "offset": 0.000}
+  ]
+}

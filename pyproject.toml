@@ -1,0 +1,9 @@
+[project]
+name = "file-integrity-control"
+version = "1.0.0"
+description = "Educational SHA-256 file integrity control tool"
+requires-python = ">=3.10"
+dependencies = ["reportlab>=4.0"]
+
+[project.scripts]
+integrity-control = "integrity_control.cli:main"

@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "algorithm": "SHA-256",
+  "created_at": "2026-08-25T14:24:18+00:00",
+  "controlled_folder": "C:\\Users\\slava\\Desktop\\file_integrity_control_sha256\\examples\\demo_workspace\\aerospace_demo_current",
+  "files": [
+    {
+      "path": "mission_docs/README_demo_data.md",
+      "sha256": "debfef316173dcbffe7e42ff5081ff4b56d321cad3fc6a48987519f22e703541",
+      "size": 611,
+      "modified_at": "2026-08-25T13:58:34+00:00"
+    },
+    {
+      "path": "mission_docs/flight_profile.csv",
+      "sha256": "48e18cc391f0b7fab5115469637e69a4e1e1ca0ff49d341dc67e2aa0e8b98edd",
+      "size": 232,
+      "modified_at": "2026-08-25T13:58:31+00:00"
+    },
+    {
+      "path": "onboard_software/navigation_config.ini",
+      "sha256": "5b4f6ac15ed8ea9a9e7ee5cc6fca2a7e1dd68806381b0f33a810c273d14a8a32",
+      "size": 164,
+      "modified_at": "2026-08-25T13:58:30+00:00"
+    },
+    {
+      "path": "payload/sensor_calibration.json",
+      "sha256": "be4a58d3cbcc9e9013bf0ca3921b6e33a94fed40013257cb88a5a23de7221cb0",
+      "size": 362,
+      "modified_at": "2026-08-25T13:58:32+00:00"
+    },
+    {
+      "path": "telemetry/orbit_status.txt",
+      "sha256": "ae9b54d0b099d4a71ca5a2410e20853f98fe59ef98aa44b219eeac7ef643ab8c",
+      "size": 297,
+      "modified_at": "2026-08-25T13:58:28+00:00"
+    }
+  ]
+}
