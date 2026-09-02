@@ -1,0 +1,27 @@
+ОТЧЕТ О КОНТРОЛЕ ЦЕЛОСТНОСТИ ФАЙЛОВ
+============================================
+Дата проверки: 2026-08-25T14:24:18+00:00
+Контролируемая папка: C:\Users\slava\Desktop\file_integrity_control_sha256\examples\demo_workspace\aerospace_demo_current
+База хэшей: C:\Users\slava\Desktop\file_integrity_control_sha256\examples\results\aerospace_hashes.json
+Статус: НАРУШЕНИЯ ОБНАРУЖЕНЫ
+
+Сводка:
+- файлов сейчас: 5
+- без изменений: 3
+- новых: 1
+- измененных: 1
+- удаленных: 1
+
+Новые файлы:
++ mission_docs/thermal_recovery_plan.txt | размер: 158 байт | SHA-256: 14a7ef22b75b...
+
+Измененные файлы:
+* telemetry/orbit_status.txt
+  старый SHA-256: ae9b54d0b099...
+  новый SHA-256:  51a9124f4cb9...
+  размер: 297 -> 373 байт
+
+Удаленные файлы:
+- payload/sensor_calibration.json | размер: 362 байт | SHA-256: be4a58d3cbcc...
+
+Примечание: SHA-256 показывает факт изменения содержимого, но не сообщает причину изменения.

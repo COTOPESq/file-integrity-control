@@ -1,0 +1,5 @@
+timestamp,event,expected_state
+2026-08-25T09:00:00Z,telemetry downlink,nominal
+2026-08-25T10:00:00Z,payload calibration,standby
+2026-08-25T11:30:00Z,solar array orientation,nominal
+2026-08-25T12:15:00Z,ground station pass,confirmed

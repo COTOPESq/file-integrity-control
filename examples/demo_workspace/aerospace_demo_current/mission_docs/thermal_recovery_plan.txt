@@ -1,0 +1,3 @@
+Emergency thermal recovery plan for low Earth orbit spacecraft.
+Step 1: switch payload to standby mode.
+Step 2: rotate solar arrays to nominal safe angle.

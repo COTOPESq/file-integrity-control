@@ -1,0 +1,5 @@
+2026-08-25T09:00:00Z; spacecraft=ORBIS-2; altitude_km=421.8; inclination_deg=51.64; status=nominal
+2026-08-25T09:15:00Z; spacecraft=ORBIS-2; altitude_km=421.7; inclination_deg=51.64; status=nominal
+2026-08-25T09:30:00Z; spacecraft=ORBIS-2; altitude_km=421.6; inclination_deg=51.64; status=nominal
+
+2026-08-25T10:24:00Z; corrective burn command appended after baseline
